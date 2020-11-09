@@ -1,4 +1,4 @@
 public class HelloWorld{
 public static void main (String [] args {
-System.out.println("Ich bin bereits 2 Jahre auf der Uni Köln")
+System.out.println("Mein Name ist Dennis")
 }}
